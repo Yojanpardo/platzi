@@ -1,0 +1,13 @@
+#GO:
+Go sirve para sistemas como: drivers, servidores, lenguajes 
+Es un lenguaje compilado realizado por Google, es opensource y todos podemos colaborar en él.
+Aprovecha las arquitecturas modernas para poder administrar correctamente el hardware, entonces se aprovechan correctamente los nucleos, ram, etc.
+rob pike hizo un libro de Go.
+Go antes estaba escrito en C, pero ahora Go está escrito en Go. :O
+poder hacer grandes cosas con pocos recursos.
+poderoso y legible.
+
+
+
+
+
