@@ -47,3 +47,7 @@ body{
 .singup-form .btn.btn-fb:hover{
 	background-color: #2d6599;
 }
+
+.singup-form .btn.btn-singup{
+	background-color: #165888;
+}
